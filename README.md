@@ -1,4 +1,5 @@
 ![my-bannery](https://raw.githubusercontent.com/Shubham0850/Shubham0850.github.io/master/images/github-intro-banner.png)
+![my-skills](https://raw.githubusercontent.com/Shubham0850/Shubham0850.github.io/main/images/github-my-skills.png)
 
 <!---
 Shubham0850/Shubham0850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
