@@ -37,7 +37,7 @@ Here are the list of web3 learning resources
 
 ## 💬 Contact Me
 
-If you'd like to get in touch, feel free to send me a message on LinkedIn: [https://www.linkedin.com/in/shubhamraj0850/](https://www.linkedin.com/in/shubhamraj0850/)
+If you'd like to get in touch, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/shubhamraj0850/), [Twitter](https://twitter.com/Shubham0850)
 
 Thanks for checking out my profile!
 
