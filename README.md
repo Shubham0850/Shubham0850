@@ -32,9 +32,7 @@ If you'd like to get in touch, feel free to send me a message on LinkedIn: [http
 
 Thanks for checking out my profile!
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0850)](https://github.com/shubham0850/github-readme-stats)
-
-[![Stars](https://img.shields.io/github/stars/Shubham0850/my-repo.svg)](https://github.com/Shubham0850/my-repo/stargazers)
+<!-- [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0850)](https://github.com/shubham0850/github-readme-stats) -->
 
 <!---
 Shubham0850/Shubham0850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
