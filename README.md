@@ -3,6 +3,15 @@
 
 I'm Shubham, a remote software engineer with a passion for building high-quality software that makes a positive impact. I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
 
+## 🧐 About 
+-  🧔 A boy from a small village in Bihar, India🇮🇳. who likes building things with technologies🌏.
+-  🏢 Remote **Full Stack Engineer** @ [Cerebrum](https://www.cerebrum.com/)
+-  ⛰️ **Polygon Advocate** | Polygon Advocates are the closest members of the Polygon community, who help them take forward the mission of growing Ethereum and Polygon
+-  ⛓️ **Solana Collective Member** | Solana Collective is a program to help Solana supporters contribute to the ecosystem and work with core teams.
+-  📚 **Ethereum Protocol Fellow** ( Oct 2022 - Jan 2023 ) | The Ethereum Protocol Fellowship (formerly Core Developer Apprentice Program) is a program designed to onboard developers to the process through which the protocol development happens. It is an opportunity to dive deep into the protocol and learn while also working closely with others on the same learning trajectory as well as the core development community.
+-  🧗‍♀️ Helping folks learn about WEB3 at [LinkedIN](https://www.linkedin.com/in/shubham0850/)
+-  ❤️ I love what i do.
+
 ## 🚀 Skills and Expertise
 
 Here are some of the technologies and tools I've worked with:
@@ -98,7 +107,11 @@ Here are the list of web3 learning resources
 
 ## 💬 Contact Me
 
-If you'd like to get in touch, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/shubhamraj0850/), [Twitter](https://twitter.com/Shubham0850)
+If you'd like to get in touch, feel free to send me a message
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shubham0850)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham0850/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajshubham0850@gmail.com)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gulzari.xyz/)
 
 Thanks for checking out my profile!
 
