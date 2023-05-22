@@ -13,7 +13,6 @@ I'm Shubham, a remote software engineer with a passion for building high-quality
 
 -  ⛓️ **Solana Collective Member** | Solana Collective is a program to help Solana supporters contribute to the ecosystem and work with core teams.
 
--  📚 **Ethereum Protocol Fellow** ( Oct 2022 - Jan 2023 ) | The Ethereum Protocol Fellowship (formerly Core Developer Apprentice Program) is a program designed to onboard developers to the process through which the protocol development happens. It is an opportunity to dive deep into the protocol and learn while also working closely with others on the same learning trajectory as well as the core development community.
 
 -  🧗‍♀️ Helping folks learn about WEB3 at [LinkedIN](https://www.linkedin.com/in/shubham0850/)
 
@@ -28,7 +27,7 @@ Here are some of the technologies and tools I've worked with:
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 **Mobile app development 📱**
 
@@ -113,6 +112,7 @@ Here are the list of web3 learning resources
 - Ethereum Protocol Fellow ( Oct 2022 - Jan 2023 )
 - Won fileCoin grant for the project [M-Tribe](https://github.com/Shubham0850/m-tribe)
 - Won the *Best User Experice Prize* by Web3Auth | 📍 Solana Hacker House New Delhi ( 2022 )
+-  **Ethereum Protocol Fellow** ( Oct 2022 - Jan 2023 ) | The Ethereum Protocol Fellowship (formerly Core Developer Apprentice Program) is a program designed to onboard developers to the process through which the protocol development happens. It is an opportunity to dive deep into the protocol and learn while also working closely with others on the same learning trajectory as well as the core development community.
 
 ## 💬 Contact Me
 
