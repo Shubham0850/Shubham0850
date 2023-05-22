@@ -100,9 +100,11 @@ Here are some of my ongoing projects:
 
 Here are the list of web3 learning resources
 
-- [Awesome WEB3 Jobs👷‍♂️](https://github.com/Shubham0850/awesome-web3-jobs): A curated list of job boards and resources for finding jobs in the Web3 industry.
-- [Awesome Ethereum Dev🛠️](https://github.com/Shubham0850/awesome-ethereum-dev): A curated list of resources for learning Ethereum development.
-- [Awesome WEB3 Documentaries🎬](https://github.com/Shubham0850/awesome-web3-documentaries): A curated list of documentaries about Web3 and blockchain technology.
+- [👷‍♂️ Awesome WEB3 Jobs](https://github.com/Shubham0850/awesome-web3-jobs): A curated list of job boards and resources for finding jobs in the Web3 industry.
+- [🛠️ Awesome Ethereum Dev](https://github.com/Shubham0850/awesome-ethereum-dev): A curated list of resources for learning Ethereum development.
+- [🎬 Awesome WEB3 Documentaries](https://github.com/Shubham0850/awesome-web3-documentaries): A curated list of documentaries about Web3 and blockchain technology.
+- [🦀 Awesome Rust Lang](https://github.com/Shubham0850/awesome-rust-lang): A comprehensive collection of resources and learning materials for Rust programming, empowering developers to explore and master the modern, safe, and blazingly fast language.
+- [🧑‍💻 Learn to build full stack counter app](https://github.com/Polygon-Advocates/zkevm-nextjs-counter-dapp): A simple, full-stack decentralized counter application (DApp) built using Next.js, Web3.js, Foundry, and deployed on the Polygon zkEVM network.
 
 ## 🏆 Achievements
 
