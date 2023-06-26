@@ -105,6 +105,7 @@ Here are the list of web3 learning resources
 - [🦀 Awesome Rust Lang](https://github.com/Shubham0850/awesome-rust-lang): A comprehensive collection of resources and learning materials for Rust programming, empowering developers to explore and master the modern, safe, and blazingly fast language.
 - [🧑‍💻 Learn to build full stack counter app](https://github.com/Polygon-Advocates/zkevm-nextjs-counter-dapp): A simple, full-stack decentralized counter application (DApp) built using Next.js, Web3.js, Foundry, and deployed on the Polygon zkEVM network.
 - [👩‍🍳 Awesome WEB3 Projects](https://github.com/Shubham0850/awesome-web3-projects): A handpicked collection of inspiring Web3 projects for learning and exploration.
+- [🔐 Awesome Cryptography](https://github.com/Shubham0850/awesome-cryptography): A curated list of cryptography resources and links.
 
 ## 🏆 Achievements
 
