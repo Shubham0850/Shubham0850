@@ -96,7 +96,7 @@ Here are some of my old projects:
 ![Kirak ai](./assets/kirak.png)
 - [Kirak.ai](https://kirak.ai): AI Learning Assistence.
 -------
-![IELTS Exam ai](./assets/ieltsexam.png)
+![IELTS Exam ai](./assets/ielts.png)
 - [Ieltsexam.ai](https://ieltsexam.ai): Your path to a perfect IELTS Score begins here!
 -------
 ![DockShark ai](./assets/docshark.png)
