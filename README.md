@@ -95,6 +95,22 @@ Here are some of my ongoing projects:
 Here are some of my old projects:
 ![Kirak ai](./assets/kirak.png)
 - [Kirak.ai](https://kirak.ai): AI Learning Assistence.
+-------
+![IELTS Exam ai](./assets/kirak.png)
+- [Ieltsexam.ai](https://ieltsexam.ai):
+-------
+![DockShark ai](./assets/docshark.png)
+- [DockShark.cloud](https://docshark.cloud): 
+-------
+![Kirak ai](./assets/auraui.png)
+- [Kirak.ai](https://kirak.ai): AI Learning Assistence.
+-------
+![Kirak ai](./assets/yoloclub.png)
+- [Kirak.ai](https://kirak.ai): AI Learning Assistence.
+-------
+![Kirak ai](./assets/cpay.png)
+- [Kirak.ai](https://kirak.ai): AI Learning Assistence.
+-------
 - [React Web3 Login](https://github.com/Shubham0850/react-web3-login): A lightweight and easy-to-use React hook for connecting to multiple Web3 wallets like MetaMask and Phantom. Seamlessly integrate Web3 wallet authentication into your React applications with minimal configuration.
 - [Anka Wallet](https://github.com/Shubham0850/anka-wallet): Anka Wallet is a React Native mobile app for managing Solana cryptocurrency. The wallet provides a user-friendly interface for managing and transferring Solana tokens, as well as seamless integration with Solana Pay for smooth transactions. Designed with a focus on security, user experience, and convenience, Anka Wallet makes managing your Solana assets a breeze.
 - [BlockShala](https://github.com/Shubham0850/BlockShala): WEB3 learning platform. Learn | Build | Earn
