@@ -96,20 +96,23 @@ Here are some of my old projects:
 ![Kirak ai](./assets/kirak.png)
 - [Kirak.ai](https://kirak.ai): AI Learning Assistence.
 -------
-![IELTS Exam ai](./assets/kirak.png)
-- [Ieltsexam.ai](https://ieltsexam.ai):
+![IELTS Exam ai](./assets/ieltsexam.png)
+- [Ieltsexam.ai](https://ieltsexam.ai): Your path to a perfect IELTS Score begins here!
 -------
 ![DockShark ai](./assets/docshark.png)
-- [DockShark.cloud](https://docshark.cloud): 
+- [DockShark.cloud](https://docshark.cloud): AI powered Secure Cloud Storage. Chat with PDFs, PPTs, Excel sheets, and YouTube videos. Get instant insights, summaries, and more. Secure and Private cloud storage.
 -------
 ![Kirak ai](./assets/auraui.png)
-- [Kirak.ai](https://kirak.ai): AI Learning Assistence.
+- [Kirak.ai](https://kirak.ai): 
 -------
-![Kirak ai](./assets/yoloclub.png)
-- [Kirak.ai](https://kirak.ai): AI Learning Assistence.
+![YoloClub](./assets/yoloclub.png)
+- [Yoloclub](https://yoloclub.vercel.app/markets): Join YoloClub and leverage cutting-edge AI technology to make smarter trading decisions. Experience seamless trading with real-time insights, automated strategies, and comprehensive market analysis.
 -------
-![Kirak ai](./assets/cpay.png)
-- [Kirak.ai](https://kirak.ai): AI Learning Assistence.
+![CryptoPay](./assets/cpay.png)
+- [CryptoPay](https://www.linkedin.com/feed/update/urn:li:activity:6911591366472921088/): The future of Crypto Payments is here.⚡
+-------
+![auraUI icons](./assets/auraui-icons.png)
+- [icons.auraui.com](https://icons.auraui.com): AuraUI icons
 -------
 - [React Web3 Login](https://github.com/Shubham0850/react-web3-login): A lightweight and easy-to-use React hook for connecting to multiple Web3 wallets like MetaMask and Phantom. Seamlessly integrate Web3 wallet authentication into your React applications with minimal configuration.
 - [Anka Wallet](https://github.com/Shubham0850/anka-wallet): Anka Wallet is a React Native mobile app for managing Solana cryptocurrency. The wallet provides a user-friendly interface for managing and transferring Solana tokens, as well as seamless integration with Solana Pay for smooth transactions. Designed with a focus on security, user experience, and convenience, Anka Wallet makes managing your Solana assets a breeze.
