@@ -1,5 +1,5 @@
 # Hi there! 👋
-![Banner Image](./assets/githhub-banner.png)
+![Banner Image](./assets/profile.png)
 
 I'm Shubham, a remote software engineer with a passion for building high-quality software that makes a positive impact. I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
 
